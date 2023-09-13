@@ -31,7 +31,7 @@ wait = '$' #(second)
 ```
 2. Lyrics
 
-Replace the example lyrics with yours, and follow the quide line:
+Replace the example lyrics with yours, and follow the guide line:
 
 1. Add a `bar_line` between every bar segment, e.g:
 ```
@@ -44,6 +44,6 @@ Fill in my data
 ```
 3. Add a `bar_line` at the end of your lyrics(**and so should you in actual music composing**), or it may cause an error.
 4. Of course you can use colorama to decorate your lyrics
-## Credits
-1. The example lyrics are from [Mili - world.execute(me);](https://www.youtube.com/watch?v=ESx_hy1n7HA), they do not belong to me.
+## Credits and notes
+1. The example lyrics are from [Mili - world.execute(me);](https://www.youtube.com/watch?v=ESx_hy1n7HA), they do not belong to me. For the same reason, I shall not provide the sound file for this example, prepare yours.
 2. The idea of this came from this video [world.execute(me); but in python3](https://www.youtube.com/watch?v=OnWktOJHrjQ), but there should be plenty of other videos doing similiar things.
